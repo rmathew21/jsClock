@@ -1,6 +1,8 @@
 html {
-    background: url(https://unsplash.it/1500/1000?image=881&blur=5);
+    background: url(baseballJones.jpg);
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     font-family: 'helvetica neue';
     text-align: center;
     font-size: 10px;
